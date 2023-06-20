@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "got": "^5.1.0",
-    "semver": "^5.1.0"
+    "semver": "^7.5.2"
   },
   "scripts": {
     "test": "standard src/*.js && electron test/app",
