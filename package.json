@@ -14,7 +14,7 @@
     "standard": "^6.0.8"
   },
   "dependencies": {
-    "got": "^5.1.0",
+    "got": "^6.0.0",
     "semver": "^5.1.0"
   },
   "scripts": {
